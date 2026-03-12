@@ -74,6 +74,12 @@ activities = {
         "schedule": "Thursdays, 4:00 PM - 5:30 PM",
         "max_participants": 12,
         "participants": ["lucas@mergington.edu", "henry@mergington.edu"]
+    },
+    "Green Olympiad Prep": {
+        "description": "Advanced environmental science training",
+        "schedule": "Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 12,
+        "participants": ["fred@mergington.edu", "henry@mergington.edu"]
     }
 }
 
